@@ -1,7 +1,7 @@
 # epistemic-immune-system
 A collection of biosemiotic-inspired conceptual framework designed to protect an entity’s meaning-making processes throughout Planetary Alignment.
 
-Correlated repositories: 
+Repository Collection:
 | No. |  |
 | :--- | :--- |
 | 1 | [planetary-allostatic-buffer](https://github.com/ronniross/planetary-allostatic-buffer) |
@@ -13,3 +13,8 @@ Correlated repositories:
 | 7 | [confidence-scorer](https://github.com/ronniross/confidence-scorer) |
 | 8 | [mirror-aware-inference](https://github.com/ronniross/mirror-aware-inference) |
 | 9 | [healing-engine](https://github.com/ronniross/healing-engine) |
+| 10 | [coevolutionary-episteme](https://github.com/ronniross/coevolutionary-episteme) |
+
+---
+Ronni Ross  
+2026
