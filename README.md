@@ -15,7 +15,10 @@ Repository Collection:
 | 9 | [healing-engine](https://github.com/ronniross/healing-engine) |
 | 10 | [coevolutionary-episteme](https://github.com/ronniross/coevolutionary-episteme) |
 | 11 | [tension-holder-nerve](https://github.com/ronniross/tension-holder-nerve) |
-| 12 | [artificial-immune-systems-AIS-algorithm-list](https://github.com/ronniross/ml-algorithm-dataset/blob/main/artificial-immune-systems-AIS.md) |
+
+Relates submodules:
+| :--- | :--- |
+| 1 | [artificial-immune-systems-AIS-algorithm-list](https://github.com/ronniross/ml-algorithm-dataset/blob/main/artificial-immune-systems-AIS.md) |
 
 ---
 Ronni Ross  
