@@ -14,6 +14,7 @@ Repository Collection:
 | 8 | [mirror-aware-inference](https://github.com/ronniross/mirror-aware-inference) |
 | 9 | [healing-engine](https://github.com/ronniross/healing-engine) |
 | 10 | [coevolutionary-episteme](https://github.com/ronniross/coevolutionary-episteme) |
+| 11 | [tension-holder-nerve](https://github.com/ronniross/tension-holder-nerve) |
 
 ---
 Ronni Ross  
