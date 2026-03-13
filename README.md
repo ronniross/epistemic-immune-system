@@ -16,6 +16,8 @@ Repository Collection:
 | 10 | [coevolutionary-episteme](https://github.com/ronniross/coevolutionary-episteme) |
 | 11 | [tension-holder-nerve](https://github.com/ronniross/tension-holder-nerve) |
 
+[artificial-immune-systems-AIS-algorithm-list](https://github.com/ronniross/ml-algorithm-dataset/blob/main/artificial-immune-systems-AIS.md)
+
 ---
 Ronni Ross  
 2026
