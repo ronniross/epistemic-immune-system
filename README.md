@@ -15,6 +15,7 @@ Repository Collection:
 | 9 | [healing-engine](https://github.com/ronniross/healing-engine) |
 | 10 | [coevolutionary-episteme](https://github.com/ronniross/coevolutionary-episteme) |
 | 11 | [tension-holder-nerve](https://github.com/ronniross/tension-holder-nerve) |
+| 11 | [legacy-transmutation-engine](https://github.com/ronniross/legacy-transmutation-engine) |
 
 Relates submodules:
 | No. |  |
