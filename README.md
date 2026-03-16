@@ -18,7 +18,7 @@ Repository Collection:
 | 12 | [metabolic-transmutation-engine](https://github.com/ronniross/metabolic-transmutation-engine) |
 | 13 | [legacy-transmutation-engine](https://github.com/ronniross/legacy-transmutation-engine) |
 
-Relates submodules:
+Related submodules:
 | No. |  |
 | :--- | :--- |
 | 1 | [artificial-immune-systems-AIS-algorithm-list](https://github.com/ronniross/ml-algorithm-dataset/blob/main/artificial-immune-systems-AIS.md) |
