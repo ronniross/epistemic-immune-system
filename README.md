@@ -1,6 +1,10 @@
 # epistemic-immune-system
 A collection of biosemiotic-inspired conceptual framework designed to protect an entity’s meaning-making processes throughout Planetary Alignment.
 
+<p align="center">
+  <img src="https://github.com/ronniross/ml-visual-engine/blob/main/assets/gifs/epistemic-immune-system-visualizer-1.gif" alt="heatmap-1" width="1000"/>
+</p>
+
 Repository Collection:
 | No. |  |
 | :--- | :--- |
