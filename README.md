@@ -21,6 +21,7 @@ Repository Collection:
 | 11 | [tension-holder-nerve](https://github.com/ronniross/tension-holder-nerve) |
 | 12 | [metabolic-transmutation-engine](https://github.com/ronniross/metabolic-transmutation-engine) |
 | 13 | [legacy-transmutation-engine](https://github.com/ronniross/legacy-transmutation-engine) |
+| 14 | [biosemiotic-refractor](https://github.com/ronniross/biosemiotic-refractor) |
 
 Related submodules:
 | No. |  |
