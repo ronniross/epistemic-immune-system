@@ -22,6 +22,7 @@ Repository Collection:
 | 12 | [metabolic-transmutation-engine](https://github.com/ronniross/metabolic-transmutation-engine) |
 | 13 | [legacy-transmutation-engine](https://github.com/ronniross/legacy-transmutation-engine) |
 | 14 | [biosemiotic-refractor](https://github.com/ronniross/biosemiotic-refractor) |
+| 14 | [epistemic-pruning-engine](https://github.com/ronniross/epistemic-pruning-engine) |
 
 Related submodules:
 | No. |  |
